@@ -1,2 +1,6 @@
-declare module 'gsap-trial/SplitText';
-declare module 'gsap-trial/ScrollSmoother';
+declare module 'gsap-trial/SplitText' {
+  export const SplitText: any;
+}
+declare module 'gsap-trial/ScrollSmoother' {
+  export const ScrollSmoother: any;
+}
